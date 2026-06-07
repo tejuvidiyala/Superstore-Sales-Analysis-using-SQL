@@ -236,7 +236,7 @@ This project demonstrates practical SQL skills including data exploration, filte
 
 ## Files Included
 
-* SQL Script
+
 * Query Outputs / Screenshots
 * README.md
 * Dataset (CSV)
